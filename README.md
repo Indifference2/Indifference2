@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome, I'm Iván San Miguel.<br>I'm currenly doing a JAVA FULL STACK Bootcamp from MindHub.<br>
+Welcome, I'm Iván San Miguel.<br>I'm just finished a JAVA FULL STACK Bootcamp from MindHub.<br>
 
 
 ## 🌐 Socials:
